@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Como Chegar Ao Futebol Profissional",
-    "currentPage": "Oficial.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1309,7 +1309,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Como Chegar Ao Fut Profissional&nbsp;",
+        "title": "Como Chegar Ao Fut Profissional&amp;nbsp;",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
